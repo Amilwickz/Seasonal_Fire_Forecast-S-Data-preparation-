@@ -1,0 +1,1 @@
+Predictor Data Ingestion and Preprocessing Pipeline for the AI-FireCast-S model. Grounded in Bradstock’s four-switch framework, the pipeline has successfully ingested, processed, and standardized the monthly burned area response variable alongside 30 of the 31 required gridded environmental predictors.
